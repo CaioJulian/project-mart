@@ -2,6 +2,8 @@
 
 Projeto utilizando as stacks: Nuxt.js (web), e Laravel (API). 
 
+link do site demonstrativo: https://projectmart.mrtsolutions.com.br
+
 ## Front-end
 O projeto Nuxt pode ser acessado no link: https://github.com/caiojulian/project-front-nuxt
 
