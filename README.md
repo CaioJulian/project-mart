@@ -1,6 +1,8 @@
 # Project Mart
 
-Projeto utilizando as stacks: Nuxt.js (web), e Laravel (API). 
+Projeto de cadastramento de produtos. Utilizando as stacks: Nuxt.js (web), e Laravel (API). 
+
+Breve explicação do projeto: https://youtu.be/vMkOgz3q91A
 
 link do site demonstrativo: https://projectmart.mrtsolutions.com.br
 
